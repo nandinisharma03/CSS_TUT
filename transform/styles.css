@@ -1,0 +1,8 @@
+.box{
+    background-color: aqua;
+    /* transform: translate(0px,0px); */
+    /* transform: rotate(-45deg); */
+    margin: 200px;
+     transform: scale(2,5); /* we can also use decimal values  */
+     transform: skew(45deg); 
+} 
